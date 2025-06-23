@@ -18,7 +18,7 @@
 - 🔙 Background em gradiente
 - 🔗 Link para o meu perfil na Rocketseat
 
-### [<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" align="left" height="32">][render] Hospedado no [Render.com][render]
+### [<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" align="left" height="32">][render] Clone do Projeto Hospedado no [Render.com][render]
 
 
 ## Contato
