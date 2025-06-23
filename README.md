@@ -18,7 +18,7 @@
 - 🔙 Background em gradiente
 - 🔗 Link para o meu perfil na Rocketseat
 
-### <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" align="left" height="32"> Hospedado no [Render.com][render]
+### [<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" align="left" height="32">][render] Hospedado no [Render.com][render]
 
 
 ## Contato
@@ -29,8 +29,8 @@
 <br />
 
 ## Linguagens usadas no projeto
-<img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="HTML" align="left" height="52px" style="padding: 5px;">[html]
-<img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="CSS" align="left" height="52px" style="padding: 5px;">[css]
-<img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt="JavaScript" align="left" height="48px" style="padding: 5px;">[javascript]
+[<img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="HTML" align="left" height="52px" style="padding: 5px;">][html]
+[<img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="CSS" align="left" height="52px" style="padding: 5px;">][css]
+[<img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt="JavaScript" align="left" height="48px" style="padding: 5px;">][javascript]
 
 
