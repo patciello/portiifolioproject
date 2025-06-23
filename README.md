@@ -4,6 +4,9 @@
 [css]: https://css-tricks.com/css-only-carousel/
 [linkedin]: https://www.linkedin.com/in/leonardo-paciello-4b33678b/
 [render]: https://render.com/
+[html]: https://www.w3schools.com/html/
+[css]: https://www.w3schools.com/css/default.asp
+[javascript]: https://www.w3schools.com/js/default.asp
 <!-- End links -->
 
 ### Olá 👋, eu sou [Leonardo][website]
@@ -26,8 +29,8 @@
 <br />
 
 ## Linguagens usadas no projeto
-<img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="HTML" align="left" height="52px" style="padding: 5px;">
-<img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="CSS" align="left" height="52px" style="padding: 5px;">
-<img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt="JavaScript" align="left" height="48px" style="padding: 5px;">
+<img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="HTML" align="left" height="52px" style="padding: 5px;">[html]
+<img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="CSS" align="left" height="52px" style="padding: 5px;">[css]
+<img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt="JavaScript" align="left" height="48px" style="padding: 5px;">[javascript]
 
 
