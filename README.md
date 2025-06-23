@@ -1,8 +1,6 @@
 <!-- Links -->
 [website]: https://app.rocketseat.com.br/rocketid/patciello
 [instagram]: https://www.instagram.com/leonardopaciello/
-[youtube]: https://www.youtube.com/
-[twitch]: https://www.twitch.tv/
 [linkedin]: https://www.linkedin.com/in/leonardo-paciello-4b33678b/
 <!-- End links -->
 
