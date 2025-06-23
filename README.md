@@ -14,7 +14,9 @@
 - 🫥 Avatar
 - 🔙 Background em gradiente
 - 🔗 Link para o meu perfil na Rocketseat
-- <img src="https://mms.businesswire.com/media/20240912828067/en/2239818/5/Render_logomark_-_Black.jpg" align="left" height="13" width="13px" style="filter: invert(100%); padding: 4px"> Hospedado no [Render.com][render]
+
+### <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" align="left" height="32"> Hospedado no [Render.com][render]
+
 
 ## Contato
 
