@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
-
     <title>Leonardo Paciello</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-
   <body>
-    <div class="container">
-      <div class="header">
+    <main class="container">
+      <header class="header">
         <img src="img/Leonardo.png" alt="Leonardo Paciello" class="avatar" />
         <h1 class="title">Leonardo Paciello</h1>
-      </div>
-      <div class="link">
+      </header>
+
+      <section class="link">
         <a
           href="https://app.rocketseat.com.br/rocketid/patciello"
           class="icon-link"
@@ -21,62 +20,68 @@
         >
           🔗 Rocketseat Portifólio
         </a>
-      </div>
+      </section>
 
-      <p class="description">
-        Olá, me chamo Leonardo Paciello, tenho 31 anos, sou de Valença, RJ.<br />
-        Sou apaixonado por programação e tecnologia, e estou sempre buscando
-        aprender coisas novas. Tenho um forte interesse em desenvolvimento web e
-        mobile, voltado para o meio cristão.
-      </p>
+      <section class="description">
+        <p>
+          Olá, me chamo Leonardo Paciello, tenho 31 anos, sou de Valença, RJ.<br />
+          Sou apaixonado por programação e tecnologia, e estou sempre buscando
+          aprender coisas novas. Tenho um forte interesse em desenvolvimento web
+          e mobile, voltado para o meio cristão.
+        </p>
+      </section>
+
       <button class="message-btn" onclick="messageClick()">
         Clique para ver uma mensagem!
       </button>
       <p id="message"></p>
-      <div>
-        <div class="horizontal-line">
-          <div class="slider">
-            <h2>Minhas paixões</h2>
+
+      <div class="divider"></div>
+
+      <section class="horizontal-line">
+        <div class="slider">
+          <h2>Minhas paixões</h2>
+          <nav>
             <a href="#slide-1">1</a>
             <a href="#slide-2">2</a>
             <a href="#slide-3">3</a>
-
-            <div class="slides">
-              <div id="slide-1">
-                <img src="img/gym_image.jpg" alt="Treinar na academia" />
-              </div>
-              <div id="slide-2">
-                <img src="img/jesus_code.png" alt="Estudar programação" />
-              </div>
-              <div id="slide-3">
-                <img src="img/english_learn.png" alt="Estudar Inglês" />
-              </div>
+          </nav>
+          <div class="slides">
+            <div id="slide-1">
+              <img src="img/gym_image.jpg" alt="Treinar na academia" />
             </div>
-
-            <ul>
-              <li>Treinar na academia</li>
-              <li>Estudar programação</li>
-              <li>Estudar Inglês</li>
-            </ul>
+            <div id="slide-2">
+              <img src="img/jesus_code.png" alt="Estudar programação" />
+            </div>
+            <div id="slide-3">
+              <img src="img/english_learn.png" alt="Estudar Inglês" />
+            </div>
           </div>
-          <div class="countries">
-            <h2>Países que eu gostaria de visitar</h2>
-            <table>
-              <tr>
-                <td>Coreia do Sul</td>
-                <td>Israel</td>
-                <td>China</td>
-              </tr>
-              <tr>
-                <td><img src="img/south_korea.png" /></td>
-                <td><img src="img/israel.png" /></td>
-                <td><img src="img/china.png" /></td>
-              </tr>
-            </table>
-          </div>
+          <br />
+          <ul>
+            <li>Treinar na academia</li>
+            <li>Estudar programação</li>
+            <li>Estudar Inglês</li>
+          </ul>
         </div>
-      </div>
-    </div>
+
+        <div class="countries">
+          <h2>Países que eu gostaria de visitar</h2>
+          <table>
+            <tr>
+              <td>Coreia do Sul</td>
+              <td>Israel</td>
+              <td>China</td>
+            </tr>
+            <tr>
+              <td><img src="img/south_korea.png" alt="Coreia do Sul" /></td>
+              <td><img src="img/israel.png" alt="Israel" /></td>
+              <td><img src="img/china.png" alt="China" /></td>
+            </tr>
+          </table>
+        </div>
+      </section>
+    </main>
     <script src="script.js"></script>
   </body>
 </html>
